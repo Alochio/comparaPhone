@@ -21,3 +21,9 @@ header img{
     font-weight: bold;
     text-align: center;
   }
+
+  @media screen and (min-width: 750px) {
+    .texto {
+      font-size: 2rem;
+    }
+}

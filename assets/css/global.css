@@ -10,6 +10,6 @@ body {
     min-height: 100vh;
 }
 
-p{
+p, h1, h2{
     font-family: "Ubuntu", sans-serif;
 }
